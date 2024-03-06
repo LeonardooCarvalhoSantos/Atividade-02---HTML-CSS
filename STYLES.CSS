@@ -1,0 +1,31 @@
+.card1 {
+    background-color:hsl(140, 100%, 50%);  
+    width: 250px; 
+    height: 250px;
+}
+
+.card2 {
+      background-color: #0400ff; 
+      width: 150px; 
+      height: 150px;
+}
+
+.card3 {
+    color: rgb(255, 255, 255); 
+    background-color: rgb(0, 0, 0); 
+    font-size: 80px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+
+.card4 {
+    width: 250px; 
+    height: 30vh; 
+    background-color: rgb(255, 0, 242);
+}
+
+.card5 {
+    width: 88vw; 
+    height: 150px;
+    background-color: rgb(255, 238, 1);
+}
